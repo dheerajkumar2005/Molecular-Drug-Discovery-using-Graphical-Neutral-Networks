@@ -1,4 +1,4 @@
-# Drug Discovery Using Graph Neural Networks
+# Molecular Drug Discovery Using Graph Neural Networks
 
 ## Project Overview
 This project aims to leverage Graph Neural Networks (GNNs) for drug discovery, focusing on molecular analysis to identify potential drug candidates efficiently and accurately. By representing molecular structures as graphs, GNNs can capture complex relationships within chemical compounds, leading to data-driven predictions of properties and interactions crucial in drug development.
@@ -21,6 +21,8 @@ Before diving into the implementation, here’s a list of essential resources to
 - [YouTube: Pandas and Matplotlib Tutorial](https://youtu.be/QUT1VHiLmmI?si=JS20LFX4ul24vlRJ)
 - [GeeksforGeeks: Matplotlib Tutorial](https://www.geeksforgeeks.org/matplotlib-tutorial/)
 - [Numpy Documentation](https://numpy.org/doc/2.1/user/basics.html)
+  - Just get to know about the working of numpy arrays, dimensions, axes, matrix operations, broadcasting and try to go over more examples from internet for practice
+  - Just get to know the basic graphs plottings which will be used heavily when training any ML model to analyse the training process and sometimes potentially for debugging
 
 #### Understanding the Basics of Neural Networks
 - **Tutorials**:
@@ -43,7 +45,7 @@ Before diving into the implementation, here’s a list of essential resources to
 - **Assignment 2**: Implement Feed Forward Neural Network on cat and dog dataset from Kaggle and improve the model accuracy using various preprocessing techniques and hyperparameter fine-tuning.
 - **Assignment 3 (Optional)**: Implement the Feed Forward Neural Network using Numpy and compare the results with the PyTorch implementation.
 
-### Week 2: Understanding Advanced Neural Networks and Graph Neural Networks Basics
+### Week 2: Understanding Advanced Neural Networks and Graph Neural Networks
 - **Resources**: 
   - To get the intuition of ReLU activation, read this article: [Visualizing Piecewise Linear Neural Networks](https://blog.janestreet.com/visualizing-piecewise-linear-neural-networks/).
   - Go over this [Coursera course](https://www.coursera.org/learn/neural-networks-deep-learning) to learn more about neural networks.
