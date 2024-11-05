@@ -15,6 +15,8 @@ Before diving into the implementation, here’s a list of essential resources to
 - [GeeksforGeeks: Python Programming Language Tutorial](https://www.geeksforgeeks.org/python-programming-language-tutorial/)
 - [Python Documentation](https://docs.python.org/3.13/)
 
+  Get Familier with basic python syntax, datatypes, functions and basics of object oriented programming
+
 #### References for Pandas and Matplotlib
 - [YouTube: Pandas and Matplotlib Tutorial](https://youtu.be/QUT1VHiLmmI?si=JS20LFX4ul24vlRJ)
 - [GeeksforGeeks: Matplotlib Tutorial](https://www.geeksforgeeks.org/matplotlib-tutorial/)
