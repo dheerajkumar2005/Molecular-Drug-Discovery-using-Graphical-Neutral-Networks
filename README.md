@@ -1,4 +1,4 @@
-![graphical_neural_network](graphical_neural_network.jpg)
+![graphical_neural_network](molecular_drug.png)
 
 # Molecular Drug Discovery Using Graph Neural Networks
 
