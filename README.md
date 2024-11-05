@@ -1,3 +1,5 @@
+![graphical_neural_network](graphical_neural_network.jpg)
+
 # Molecular Drug Discovery Using Graph Neural Networks
 
 ## Project Overview
