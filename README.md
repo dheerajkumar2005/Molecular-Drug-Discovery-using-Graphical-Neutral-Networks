@@ -37,7 +37,7 @@ Complete the given tutorials. Leave the advanced neural Networks part of it.
 - Note: We know that the tutorials we provided mostly cover the implementation of the neural network, we just want you to play with it yourself and understand each part of the code. You can also refer to the book mentioned above for a better understanding of the theory.
 
 
-Assignment-1: Implementing K-means clustering algorithm using Numpy fundamentals
+Assignment-1: Implementing K-means clustering algorithm using Numpy fundamentals. 
 Assignment-2: Implementing Feed Forward Neural Network on cat and dog dataset on kaggle and improving the model accuracy using various preprocessing techniques and hyperparameter finetuning to improve the model accuracy.
 Assignment-3 (Optional): Implement the Feed Forward Neural Network using numpy and compare the results with the Pytorch implementation.
 
