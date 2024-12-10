@@ -2,7 +2,7 @@ This week is going to be covering some basic concepts and get the hang of syntax
 
 Some basic fast learning tips:
 You can always ask chatgpt to understand the syntax of any library/framework, you can give relevant prompts like:
-"Explain me all the basic numpy syntax with relevant examples for each concept", and many variations of it
+"Explain me all the basic numpy syntax with relevant examples for each concept", and other variations of it would also work(Most of you would be expert in giving GPT prompts by now :) ).
 Also you can ask chatgpt about the syntax that you don't understand from the resources/documentation and ask it to make some
 complex practice example to get the hang of it in depth.
 
