@@ -1,3 +1,5 @@
+This week is going to be covering some basic concepts and get the hang of syntax of required libraries. 
+
 ### Week 1: Get Familiar with Python Libraries
 - **Libraries**: Numpy, Matplotlib, PyTorch
 
