@@ -37,7 +37,7 @@ complex practice example to get the hang of it in depth.
   - Read the introductory chapter from “Introduction to Machine Learning - Gurney et al.” and optionally the theory (highly recommended).
   
 
-- **Implementation pytorch tutorials(Optional, but highly recommended to learn the basics about tensors and basic feed forward neural networks)**:
+- **Implementation pytorch tutorials(Optional, but highly recommended to learn the working of tensors and basic feed forward neural networks)**:
   - https://youtu.be/c36lUUr864M?si=ipK9wX2L0EgOtZHV
   - Also get the understanding of some Commonly used loss functions (and get the intuition behind them) and optimizers(like SGD, Adam and their mathematical background)
 
