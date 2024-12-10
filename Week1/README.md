@@ -27,7 +27,7 @@ This project focuses on using Graph Neural Networks (GNNs) for molecular analysi
 
 ---
 
-### **Weeks 2–4: Deep Dive into GNNs and GCNs**
+### **Weeks 2, 3: Deep Dive into GNNs and GCNs**
 **Focus**: Learn advanced concepts like Convolutional Neural Networks (CNNs), Graph Neural Networks (GNNs), and Graph Convolutional Networks (GCNs).  
 **Key Topics**:  
 - Essentials of graph theory and data structure: structures, properties, and algorithms.  
@@ -40,7 +40,7 @@ This project focuses on using Graph Neural Networks (GNNs) for molecular analysi
   
 ---
 
-### **Weeks 4–6: Final Project Implementation**
+### **Weeks 4, 5: Final Project Implementation**
 **Focus**: Use GNNs to analyze molecular data and predict properties relevant to drug development.  
 **Key Topics**:  
 - Learn to handle molecular data and preprocessing using RDKit and ChEMBL.  
