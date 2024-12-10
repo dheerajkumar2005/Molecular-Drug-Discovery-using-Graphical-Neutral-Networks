@@ -19,12 +19,16 @@ Before diving into the implementation, here’s a list of essential resources to
 
   Get Familier with basic python syntax, datatypes, functions and basics of object oriented programming
 
-#### References for Pandas and Matplotlib
-- [YouTube: Pandas and Matplotlib Tutorial](https://youtu.be/QUT1VHiLmmI?si=JS20LFX4ul24vlRJ)
-- [GeeksforGeeks: Matplotlib Tutorial](https://www.geeksforgeeks.org/matplotlib-tutorial/)
+#### References for numpy,Pandas
 - [Numpy Documentation](https://numpy.org/doc/2.1/user/basics.html)
   - Just get to know about the working of numpy arrays, dimensions, axes, matrix operations, broadcasting and try to go over more examples from internet for practice
   - Just get to know the basic graphs plottings which will be used heavily when training any ML model to analyse the training process and sometimes potentially for debugging
+ 
+#### Some basic ML algorithms(to get the hang of machine learning)
+
+-  Linear Regression(Reading): https://www.geeksforgeeks.org/ml-linear-regression/?ref=ml_lbp
+- (Optional) https://www.coursera.org/learn/machine-learning. You can go through this course to understand regression better
+
 
 #### Understanding the Basics of Neural Networks
 - **Tutorials**:
@@ -43,9 +47,19 @@ Before diving into the implementation, here’s a list of essential resources to
 > **Note**: We know that the tutorials we provided mostly cover the implementation of neural networks; we just want you to play with it yourself and understand each part of the code. You can also refer to the book mentioned above for a better understanding of the theory.
 
 ### Assignments
-- **Assignment 1**: Implement K-means clustering algorithm to get used to Numpy operations.
-- **Assignment 2**: Implement Feed Forward Neural Network on cat and dog dataset from Kaggle and improve the model accuracy using various preprocessing techniques and hyperparameter fine-tuning.
-- **Assignment 3 (Optional)**: Implement the Feed Forward Neural Network using Numpy and compare the results with the PyTorch implementation.
+- **Assignment 1**: Implement Linear and Logistic Regression from scratch using numpy.
+- 
+Build a Linear regression model to predict Student performance Index using the dataset provided in the link below. You will have to load the data using the library of your choice and drop rows in which some cells are empty.You are expected to use Numpy to create the linear regression model.
+Student Performance Dataset
+Build a logistic regression model to predict whether the patient has a 10-year risk of future coronary heart disease (CHD) using the dataset available here: https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression?resource=download
+You are free to use any library of your choice to load the data and drop the rows which have a NA entry. You are expected to use numpy to build the logistic regression model.
+Evaluating your model: for linear regression you can print the RMSE loss and for logistic regression print the accuracy of your model (percentage of data points classified correctly) along with the percentage false negatives (numbers of false negatives /number of positives) and percentage false positives(number of false positives/number of negatives)
+
+- **Assignment 2**: Implement K-means clustering algorithm to get used to Numpy operations.
+  
+- **Assignment 3 (Optional)**: Implement Feed Forward Neural Network on cat and dog dataset from Kaggle and improve the model accuracy using various preprocessing techniques and hyperparameter fine-tuning.
+
+- Submission format: Make your github repository, we will also float the official GitHub repo for WiDs in a few days. You can clone or fork our repo and add your work to it. We will float Google forms asking the repo links, please feel free to reach out in case you are new to GitHub.
 
 ### Week 2: Understanding Advanced Neural Networks and Graph Neural Networks
 - **Resources**: 
