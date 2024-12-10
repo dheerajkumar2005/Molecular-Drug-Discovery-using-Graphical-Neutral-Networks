@@ -27,6 +27,7 @@ complex practice example to get the hang of it in depth.
 
 -  Linear Regression(Reading): https://www.geeksforgeeks.org/ml-linear-regression/?ref=ml_lbp
 - (Optional) https://www.coursera.org/learn/machine-learning. You can go through this course to understand regression better
+- (Optional) https://scikit-learn.org/dev/modules/generated/sklearn.linear_model.LinearRegression.html, this link contains linear regression applications on various datasets, you can go through them to get more application based understanding of algorithm (along with various other preprocessing techniques and concepts).
 
 
 #### Understanding the Basics of Neural Networks
