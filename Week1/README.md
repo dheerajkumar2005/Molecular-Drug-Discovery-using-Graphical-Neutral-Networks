@@ -54,4 +54,4 @@ complex practice example to get the hang of it in depth.
   
 - **Assignment 3 (Optional)**: Implement Feed Forward Neural Network on cat and dog dataset from Kaggle and improve the model accuracy using various preprocessing techniques and hyperparameter fine-tuning.
 
-- Submission format: Make your github repository, we will also float the official GitHub repo for WiDs in a few days. You can clone or fork our repo and add your work to it. We will float Google forms asking the repo links, please feel free to reach out in case you are new to GitHub.
+- Submission format: Make your github repository, we will also float the official GitHub repo for WiDs in a few days. You can clone our repo and add your work to it. We will float Google forms asking the repo links, please feel free to reach out in case you are new to GitHub.
