@@ -40,7 +40,7 @@ This project focuses on using Graph Neural Networks (GNNs) for molecular analysi
 - Some relevant Assigments in Pytorch and Pytorch Geometric
 - Some relevant articles and papers for better understanding
 
->*These 2 weeks contains heavy content to grasp so in order to have smooth learning experience, we will be giving you daily targets for these 2 weeks to cover and following it would be highly recommended.*
+>*These weeks contains heavy content to grasp so in order to have smooth learning experience, we will be giving you daily targets for each day in these 2 weeks to cover and following it would be highly recommended.*
 ---
 
 ### **Weeks 4, 5: Final Project Implementation**
