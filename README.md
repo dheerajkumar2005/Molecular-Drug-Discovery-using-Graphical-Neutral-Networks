@@ -7,8 +7,7 @@ This project focuses on using Graph Neural Networks (GNNs) for molecular analysi
 ## **What You’ll Learn**
 - Understand how GNNS, GCNs work and their applications in drug discovery and learn to process molecular data as graphs for property prediction.
 - Gain hands-on experience with tools like PyTorch Geometric, RDKit, and ChEMBL.
-- Graphical Neural Networks will be really great from Resume point of view as well since it is used heavily in real world projects.
-
+- Graph Neural Networks hold significant value for enhancing resumes, as they are widely utilized in real-world projects.
 ---
 
 ## **Tentative Project Plan**
