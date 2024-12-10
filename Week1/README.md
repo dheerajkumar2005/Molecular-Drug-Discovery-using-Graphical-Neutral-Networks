@@ -19,10 +19,9 @@ complex practice example to get the hang of it in depth.
 
   Get Familier with basic python syntax, datatypes, functions and basics of object oriented programming
 
-#### References for numpy,Pandas
+#### References for numpy
 - [Numpy Documentation](https://numpy.org/doc/2.1/user/basics.html)
-  - Just get to know about the working of numpy arrays, dimensions, axes, matrix operations, broadcasting and try to go over more examples from internet for practice
-  - Just get to know the basic graphs plottings which will be used heavily when training any ML model to analyse the training process and sometimes potentially for debugging
+  - Just get to know about the working of numpy arrays, dimensions, axes, matrix operations, broadcasting, go through all examples thoroughly and try to go over more examples from internet for practice, try to create and experiment with your own examples.(You can also teach someone to enhance your understanding).
  
 #### Some basic ML algorithms(to get the hang of machine learning)
 
