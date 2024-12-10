@@ -33,8 +33,6 @@ Before diving into the implementation, here’s a list of essential resources to
 #### Understanding the Basics of Neural Networks
 - **Tutorials**:
   - [Medium: Introduction to Neural Networks](https://medium.com/deep-learning-demystified/introduction-to-neural-networks-part-1-e13f132c6d7e)
-  - [YouTube: Neural Networks - Part 1](https://www.youtube.com/watch?v=BzcBsTou0C0)
-  - [YouTube: Neural Networks - Part 2](https://www.youtube.com/watch?v=aircAruvnKk)
 
 - **Articles**:
   - [Medium: A Beginner Intro to Neural Networks](https://purnasaigudikandula.medium.com/a-beginner-intro-to-neural-networks-543267bda3c8)
