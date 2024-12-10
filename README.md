@@ -48,12 +48,10 @@ Before diving into the implementation, here’s a list of essential resources to
 
 ### Assignments
 - **Assignment 1**: Implement Linear and Logistic Regression from scratch using numpy.
-- 
-Build a Linear regression model to predict Student performance Index using the dataset provided in the link below. You will have to load the data using the library of your choice and drop rows in which some cells are empty.You are expected to use Numpy to create the linear regression model.
-Student Performance Dataset
-Build a logistic regression model to predict whether the patient has a 10-year risk of future coronary heart disease (CHD) using the dataset available here: https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression?resource=download
-You are free to use any library of your choice to load the data and drop the rows which have a NA entry. You are expected to use numpy to build the logistic regression model.
-Evaluating your model: for linear regression you can print the RMSE loss and for logistic regression print the accuracy of your model (percentage of data points classified correctly) along with the percentage false negatives (numbers of false negatives /number of positives) and percentage false positives(number of false positives/number of negatives)
+- Build a Linear regression model to predict Student performance Index using the dataset provided in the link below. You will have to load the data using the library of your choice and drop rows in which some cells are empty.You are expected to use Numpy to create the linear regression model. Student Performance Dataset
+- Build a logistic regression model to predict whether the patient has a 10-year risk of future coronary heart disease (CHD) using the dataset available here: https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression?resource=download
+- You are free to use any library of your choice to load the data and drop the rows which have a NA entry. You are expected to use numpy to build the logistic regression model.
+- Evaluating your model: for linear regression you can print the RMSE loss and for logistic regression print the accuracy of your model (percentage of data points classified correctly) along with the percentage false negatives (numbers of false negatives /number of positives) and percentage false positives(number of false positives/number of negatives)
 
 - **Assignment 2**: Implement K-means clustering algorithm to get used to Numpy operations.
   
