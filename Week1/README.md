@@ -35,11 +35,13 @@ complex practice example to get the hang of it in depth.
   - [Medium: Introduction to Neural Networks](https://medium.com/deep-learning-demystified/introduction-to-neural-networks-part-1-e13f132c6d7e)
   - [Medium: A Beginner Intro to Neural Networks](https://purnasaigudikandula.medium.com/a-beginner-intro-to-neural-networks-543267bda3c8)
   - Read the introductory chapter from “Introduction to Machine Learning - Gurney et al.” and optionally the theory (highly recommended).
+  
 
 - **Implementation pytorch tutorials(Optional, but highly recommended to learn the basics about tensors and basic feed forward neural networks)**:
   - https://youtu.be/c36lUUr864M?si=ipK9wX2L0EgOtZHV
+  - Also get the understanding of some Commonly used loss functions (and get the intuition behind them) and optimizers(like SGD, Adam and their mathematical background)
 
-> **Note**: We know that the articles we provided mostly cover the theory of neural networks; we also recommend you to get the basics concepts and syntax of pytorch and implement the basic neural networks and play with them.
+> **Note**: We know that the articles we provided mostly cover the theory of neural networks; we also recommend you to get the basics concepts and syntax of pytorch and implement the basic neural networks and play with them(Also understand the loss functions and optimizer used, their mathematical aspects).
 
 ### Assignments
 - **Assignment 1**: Implement Linear and Logistic Regression from scratch using numpy.
