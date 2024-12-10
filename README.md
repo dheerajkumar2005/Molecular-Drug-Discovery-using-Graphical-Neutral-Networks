@@ -55,9 +55,13 @@ This project focuses on using Graph Neural Networks (GNNs) for molecular analysi
 - If Time permits, we will implement a research paper on some standard GCN architecture in drug discovery.
 ---
 
-Let’s get started!
+**Submission of Assigments**: Make your github repository, we will also float the official GitHub repo for WiDs in a few days. You can clone our repo and add your work to it. We will float Google forms asking the repo links, please feel free to reach out in case you are new to GitHub.
+
 
 > **This Project will demand mentees to grasp heavy content with various non trivial concepts so remaining consistent on the projects with regularly and sincerely attempting and completing assignments will be expected and it will make the learnings smooth for this project. If you ever feel that the project is being slow or fast, you can definitely reach out to us in order to solve the issue. If you do not understand any concept or remain stuck at it, you can always google them or use chat gpt to understand them (most of the times this will work) and you can always definitely reach out to us to clear any doubts.**
+
+Let’s get started!
+
 
 
 ### Week 2: Understanding Advanced Neural Networks and Graph Neural Networks
