@@ -1,3 +1,5 @@
+![graphical_neural_network](graphical_neural_network.jpg)
+
 # **Graph Neural Networks for Drug Discovery**
 
 This project focuses on using Graph Neural Networks (GNNs) for molecular analysis in drug discovery. By representing molecules as graphs, GNNs can capture complex relationships within chemical compounds, enabling accurate predictions of properties and interactions essential for drug development.
