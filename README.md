@@ -31,21 +31,19 @@ Before diving into the implementation, here’s a list of essential resources to
 
 
 #### Understanding the Basics of Neural Networks
-- **Tutorials**:
+- **Articles and Reading**:
   - [Medium: Introduction to Neural Networks](https://medium.com/deep-learning-demystified/introduction-to-neural-networks-part-1-e13f132c6d7e)
-
-- **Articles**:
   - [Medium: A Beginner Intro to Neural Networks](https://purnasaigudikandula.medium.com/a-beginner-intro-to-neural-networks-543267bda3c8)
-
-- **Reading**: 
   - Read the introductory chapter from “Introduction to Machine Learning - Gurney et al.” and optionally the theory (highly recommended).
-  - Complete the given tutorials. Leave the advanced neural networks part of it.
 
-> **Note**: We know that the tutorials we provided mostly cover the implementation of neural networks; we just want you to play with it yourself and understand each part of the code. You can also refer to the book mentioned above for a better understanding of the theory.
+- **Implementation pytorch tutorials(Optional, but highly recommended to learn the basics about tensors and basic feed forward neural networks)**:
+  - https://youtu.be/c36lUUr864M?si=ipK9wX2L0EgOtZHV
+
+> **Note**: We know that the articles we provided mostly cover the theory of neural networks; we also recommend you to get the basics concepts and syntax of pytorch and implement the basic neural networks and play with them.
 
 ### Assignments
 - **Assignment 1**: Implement Linear and Logistic Regression from scratch using numpy.
-- Build a Linear regression model to predict Student performance Index using the dataset provided in the link below. You will have to load the data using the library of your choice and drop rows in which some cells are empty.You are expected to use Numpy to create the linear regression model. Student Performance Dataset
+- Build a Linear regression model to predict Student performance Index using the dataset provided in the link below. You will have to load the data using the library of your choice and drop rows in which some cells are empty.You are expected to use Numpy to create the linear regression model. Student Performance Dataset(link)
 - Build a logistic regression model to predict whether the patient has a 10-year risk of future coronary heart disease (CHD) using the dataset available here: https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression?resource=download
 - You are free to use any library of your choice to load the data and drop the rows which have a NA entry. You are expected to use numpy to build the logistic regression model.
 - Evaluating your model: for linear regression you can print the RMSE loss and for logistic regression print the accuracy of your model (percentage of data points classified correctly) along with the percentage false negatives (numbers of false negatives /number of positives) and percentage false positives(number of false positives/number of negatives)
