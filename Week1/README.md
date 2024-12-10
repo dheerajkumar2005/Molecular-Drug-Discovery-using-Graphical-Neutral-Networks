@@ -49,7 +49,7 @@ complex practice example to get the hang of it in depth.
 - You are free to use any library of your choice to load the data and drop the rows which have a NA entry. You are expected to use numpy to build the logistic regression model. (Optional: Implement any imputation technique or outlier removal technique and compare the accuracies).
 - Evaluating your model: for linear regression you can print the RMSE loss and for logistic regression print the accuracy of your model (percentage of data points classified correctly) along with the percentage false negatives (numbers of false negatives /number of positives) and percentage false positives(number of false positives/number of negatives)
 
-- **Assignment 2**: Implement K-means clustering algorithm to get used to Numpy operations(Lisan Al Gaib).
+- **Assignment 2**: Implement K-means clustering algorithm to get used to Numpy operations(Lisan Al Gaib). Problem statement and relevant files are uploaded in week 1 folder.
   
 - **Assignment 3 (Optional)**: Implement Feed Forward Neural Network on cat and dog dataset from Kaggle and improve the model accuracy using various preprocessing techniques and hyperparameter fine-tuning.
 
