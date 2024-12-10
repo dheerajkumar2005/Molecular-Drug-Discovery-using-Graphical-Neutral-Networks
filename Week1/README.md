@@ -1,5 +1,3 @@
-![graphical_neural_network](graphical_neural_network.jpg)
-
 ### Week 1: Get Familiar with Python Libraries
 - **Libraries**: Numpy, Matplotlib, PyTorch
 
