@@ -1,55 +1,45 @@
-# **Graph Neural Networks for Drug Discovery**
+![graphical_neural_network](graphical_neural_network.jpg)
 
-This project focuses on using Graph Neural Networks (GNNs) for molecular analysis in drug discovery. By representing molecules as graphs, GNNs can capture complex relationships within chemical compounds, enabling accurate predictions of properties and interactions essential for drug development.
+### Week 1: Get Familiar with Python Libraries
+- **Libraries**: Numpy, Matplotlib, PyTorch
 
-## **What You’ll Learn**
-- Understand how GNNS, GCNs work and their applications in drug discovery and learn to process molecular data as graphs for property prediction.
-- Gain hands-on experience with tools like PyTorch Geometric, RDKit, and ChEMBL.
-- Graphical Neural Networks will be really great from Resume point of view as well since it is used heavily in real world projects.
+#### References for Python
+- [GeeksforGeeks: Python Programming Language Tutorial](https://www.geeksforgeeks.org/python-programming-language-tutorial/)
+- [Python Documentation](https://docs.python.org/3.13/)
 
----
+  Get Familier with basic python syntax, datatypes, functions and basics of object oriented programming
 
-## **Tentative Project Plan**
+#### References for numpy,Pandas
+- [Numpy Documentation](https://numpy.org/doc/2.1/user/basics.html)
+  - Just get to know about the working of numpy arrays, dimensions, axes, matrix operations, broadcasting and try to go over more examples from internet for practice
+  - Just get to know the basic graphs plottings which will be used heavily when training any ML model to analyse the training process and sometimes potentially for debugging
+ 
+#### Some basic ML algorithms(to get the hang of machine learning)
 
-### **Week 1: Basics of ML and Neural Networks**
-**Focus**: Learn Python basics, libraries like Numpy, pyplot, and foundational machine learning concepts.  
-**Key Topics**:  
-- Python syntax, data types, functions, and OOP basics.  
-- Using Numpy for arrays and matrix operations.  
-- Plotting graphs with Matplotlib for analysis.  
-- Understanding Linear and Logistic Regression(to get the basic gist of supervised learning).  
-- Understanding Basics of Neural Networks.  
+-  Linear Regression(Reading): https://www.geeksforgeeks.org/ml-linear-regression/?ref=ml_lbp
+- (Optional) https://www.coursera.org/learn/machine-learning. You can go through this course to understand regression better
 
-**Assignments**:  
-- Implement Linear and Logistic Regression using Numpy.  
-- Implement K-Means clustering to understand Numpy operations.
-- (Optional) Implement Feed Forward Neural Network from scratch using numpy
 
----
+#### Understanding the Basics of Neural Networks
+- **Articles and Reading**:
+  - [Medium: Introduction to Neural Networks](https://medium.com/deep-learning-demystified/introduction-to-neural-networks-part-1-e13f132c6d7e)
+  - [Medium: A Beginner Intro to Neural Networks](https://purnasaigudikandula.medium.com/a-beginner-intro-to-neural-networks-543267bda3c8)
+  - Read the introductory chapter from “Introduction to Machine Learning - Gurney et al.” and optionally the theory (highly recommended).
 
-### **Weeks 2, 3: Deep Dive into GNNs and GCNs**
-**Focus**: Learn advanced concepts like Convolutional Neural Networks (CNNs), Graph Neural Networks (GNNs), and Graph Convolutional Networks (GCNs).  
-**Key Topics**:  
-- Essentials of graph theory and data structure: structures, properties, and algorithms.  
-- Essential Linear Algebra Concepts. 
-- Understanding the CNN, GNN and GCNs architectures. 
+- **Implementation pytorch tutorials(Optional, but highly recommended to learn the basics about tensors and basic feed forward neural networks)**:
+  - https://youtu.be/c36lUUr864M?si=ipK9wX2L0EgOtZHV
 
-**Assignments**:  
-- Some relevant Assigments in Pytorch and Pytorch Geometric
-- Some relevant articles and papers for better understanding
+> **Note**: We know that the articles we provided mostly cover the theory of neural networks; we also recommend you to get the basics concepts and syntax of pytorch and implement the basic neural networks and play with them.
+
+### Assignments
+- **Assignment 1**: Implement Linear and Logistic Regression from scratch using numpy.
+- Build a Linear regression model to predict Student performance Index using the dataset provided in the link below. You will have to load the data using the library of your choice and drop rows in which some cells are empty.You are expected to use Numpy to create the linear regression model. Student Performance Dataset(link)
+- Build a logistic regression model to predict whether the patient has a 10-year risk of future coronary heart disease (CHD) using the dataset available here: https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression?resource=download
+- You are free to use any library of your choice to load the data and drop the rows which have a NA entry. You are expected to use numpy to build the logistic regression model.
+- Evaluating your model: for linear regression you can print the RMSE loss and for logistic regression print the accuracy of your model (percentage of data points classified correctly) along with the percentage false negatives (numbers of false negatives /number of positives) and percentage false positives(number of false positives/number of negatives)
+
+- **Assignment 2**: Implement K-means clustering algorithm to get used to Numpy operations.
   
----
+- **Assignment 3 (Optional)**: Implement Feed Forward Neural Network on cat and dog dataset from Kaggle and improve the model accuracy using various preprocessing techniques and hyperparameter fine-tuning.
 
-### **Weeks 4, 5: Final Project Implementation**
-**Focus**: Use GNNs to analyze molecular data and predict properties relevant to drug development.  
-**Key Topics**:  
-- Learn to handle molecular data and preprocessing using RDKit and ChEMBL.  
-- Understand theoritical point of view of molecular properties and represent them as graphs.  
-- Train and fine-tune GNNs for various Drug Properties prediction.  
-
-**Assignments**:  
-- Implement the Project
-- If Time permits, we will implement a research paper on some standard GCN architecture in drug discovery.
----
-
-Let’s get started!
+- Submission format: Make your github repository, we will also float the official GitHub repo for WiDs in a few days. You can clone or fork our repo and add your work to it. We will float Google forms asking the repo links, please feel free to reach out in case you are new to GitHub.
