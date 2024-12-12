@@ -43,11 +43,12 @@ complex practice example to get the hang of it in depth.
 
 > **Note**: We know that the articles we provided mostly cover the theory of neural networks; we also recommend you to get the basics concepts and syntax of pytorch and implement the basic neural networks and play with them(Also understand the loss functions and optimizer used, their mathematical aspects).
 
-### Assignments
+### Assignments(Deadline: 18th December)
 - **Assignment 1**: Implement Linear and Logistic Regression from scratch using numpy.
   - Build a Linear regression model to predict Student performance Index using the dataset provided in the link below. You will have to load the data using the library of your choice and drop rows in which some cells are empty.You are expected to use Numpy to create the linear regression model. Student Performance Dataset is provided in this folder.
   - Build a logistic regression model to predict whether the patient has a 10-year risk of future coronary heart disease (CHD) using the dataset available here: https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression?resource=download
   - You are free to use any library of your choice to load the data and drop the rows which have a NA entry. You are expected to use numpy to build the logistic regression model. (Optional: Implement any imputation technique or outlier removal technique and observe their effect on model accuracies).
+  - Use Gradient Descent algorithm or any other derivative of it to optimize the loss function, you can refer to various optimizers on google.
   - Evaluating your model: for linear regression you can print the RMSE loss and for logistic regression print the accuracy of your model (percentage of data points classified correctly) along with the percentage false negatives (numbers of false negatives /number of positives) and percentage false positives(number of false positives/number of negatives)
 
 - **Assignment 2**: Implement K-means clustering algorithm to get used to Numpy operations. Problem statement, algorithm and relevant files are uploaded in assignment folder within this week1 folder.
