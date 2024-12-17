@@ -7,7 +7,7 @@
   - Go over this [Coursera course](https://www.coursera.org/learn/neural-networks-deep-learning) to learn more about neural networks.
 
 ### Introduction to Graph Data Structure
-- [Graph Data Structure - tutorialspoint](https://www.tutorialspoint.com/data_structures_algorithms/graph_data_structure.htm)
+- [Graph Data Structure - tutorialspoint](https://www.tutorialspoint.com/data_structures_algorithms/graph_data_structure.htm) (till representation of graph)
 
 ### Linear Algebra 
 
