@@ -13,6 +13,8 @@
 
 ### Understanding Basics of CNN 
  - https://www.datacamp.com/tutorial/introduction-to-convolutional-neural-networks-cnns
+ - https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148
+ - https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning (optional, you can refer to it to get to more depth and also various famous CNN architectures)
 
 ### Graph representation in Machine learning 
   -  [Unsupervised Node Embedding](https://web.stanford.edu/class/cs224w/slides/02-nodeemb.pdf)
