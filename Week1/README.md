@@ -37,18 +37,19 @@ complex practice example to get the hang of it in depth.
   - Read the introductory chapter from “Introduction to Machine Learning - Gurney et al.” and optionally the theory (highly recommended).
   
 
-- **Implementation pytorch tutorials(Optional, but highly recommended to learn the basics about tensors and basic feed forward neural networks)**:
+- **Implementation pytorch tutorials(Optional, but highly recommended to learn the working of tensors and basic feed forward neural networks)**:
   - https://youtu.be/c36lUUr864M?si=ipK9wX2L0EgOtZHV
   - Also get the understanding of some Commonly used loss functions (and get the intuition behind them) and optimizers(like SGD, Adam and their mathematical background)
 
 > **Note**: We know that the articles we provided mostly cover the theory of neural networks; we also recommend you to get the basics concepts and syntax of pytorch and implement the basic neural networks and play with them(Also understand the loss functions and optimizer used, their mathematical aspects).
 
-### Assignments
+### Assignments(Deadline: 18th December)
 - **Assignment 1**: Implement Linear and Logistic Regression from scratch using numpy.
-- Build a Linear regression model to predict Student performance Index using the dataset provided in the link below. You will have to load the data using the library of your choice and drop rows in which some cells are empty.You are expected to use Numpy to create the linear regression model. Student Performance Dataset is provided in this folder.
-- Build a logistic regression model to predict whether the patient has a 10-year risk of future coronary heart disease (CHD) using the dataset available here: https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression?resource=download
-- You are free to use any library of your choice to load the data and drop the rows which have a NA entry. You are expected to use numpy to build the logistic regression model. (Optional: Implement any imputation technique or outlier removal technique and compare the accuracies).
-- Evaluating your model: for linear regression you can print the RMSE loss and for logistic regression print the accuracy of your model (percentage of data points classified correctly) along with the percentage false negatives (numbers of false negatives /number of positives) and percentage false positives(number of false positives/number of negatives)
+  - Build a Linear regression model to predict Student performance Index using the dataset provided in the link below. You will have to load the data using the library of your choice and drop rows in which some cells are empty.You are expected to use Numpy to create the linear regression model. Student Performance Dataset is provided in this folder.
+  - Build a logistic regression model to predict whether the patient has a 10-year risk of future coronary heart disease (CHD) using the dataset available here: https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression?resource=download
+  - You are free to use any library of your choice to load the data and drop the rows which have a NA entry. You are expected to use numpy to build the logistic regression model. (Optional: Implement any imputation technique or outlier removal technique and observe their effect on model accuracies).
+  - Use Gradient Descent algorithm or any other derivative of it to optimize the loss function, you can refer to various optimizers on google.
+  - Evaluating your model: for linear regression you can print the RMSE loss and for logistic regression print the accuracy of your model (percentage of data points classified correctly) along with the percentage false negatives (numbers of false negatives /number of positives) and percentage false positives(number of false positives/number of negatives)
 
 - **Assignment 2**: Implement K-means clustering algorithm to get used to Numpy operations. Problem statement, algorithm and relevant files are uploaded in assignment folder within this week1 folder.
   
