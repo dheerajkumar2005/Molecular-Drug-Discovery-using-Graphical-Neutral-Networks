@@ -6,11 +6,35 @@
   - To get the intuition of ReLU activation, read this article: [Visualizing Piecewise Linear Neural Networks](https://blog.janestreet.com/visualizing-piecewise-linear-neural-networks/).
   - Go over this [Coursera course](https://www.coursera.org/learn/neural-networks-deep-learning) to learn more about neural networks.
 
+### Introduction to Graph Data Structure
+- [Graph Data Structure - tutorialspoint](https://www.tutorialspoint.com/data_structures_algorithms/graph_data_structure.htm)
+
+### Linear Algebra 
+
+### Understanding Basics of CNN 
+ - https://www.datacamp.com/tutorial/introduction-to-convolutional-neural-networks-cnns
+
+### Graph representation in Machine learning 
+  -  [Unsupervised Node Embedding](https://web.stanford.edu/class/cs224w/slides/02-nodeemb.pdf)
+  
+### Introduction to GNN
+  -  [Distill.pub: Understanding GNNs](https://distill.pub/2021/understanding-gnns/)
+  - https://medium.com/@tejpal.abhyuday/introduction-to-graph-neural-networks-gnns-f79ca974a57d
+
+
+### GCN
+  - https://web.stanford.edu/class/cs224w/slides/03-GNN1.pdf
+
+### GNN Layer, Layer connectivity and Graph Manipulation :
+  - https://web.stanford.edu/class/cs224w/slides/04-GNN2.pdf
+
+### Hands-on on karateclub dataset
+  - https://towardsdatascience.com/graph-convolutional-networks-introduction-to-gnns-24b3f60d6c95
+
 #### For Graph Neural Networks
 - **Articles for Basic Ideas**:
   - [Neptune.ai: Graph Neural Network and Some of GNN Applications](https://neptune.ai/blog/graph-neural-network-and-some-of-gnn-applications)
-  - [Distill.pub: Understanding GNNs](https://distill.pub/2021/understanding-gnns/)
-  - [Towards Data Science: Graph Convolutional Networks](https://towardsdatascience.com/graph-convolutional-networks-introduction-to-gnns-24b3f60d6c95)
+  <!-- - [Towards Data Science: Graph Convolutional Networks](https://towardsdatascience.com/graph-convolutional-networks-introduction-to-gnns-24b3f60d6c95) -->
 
 - **Optional Readings**:
   - Read and understand the research paper: [Neural Message Passing for Quantum Chemistry](https://arxiv.org/pdf/1704.01212).
