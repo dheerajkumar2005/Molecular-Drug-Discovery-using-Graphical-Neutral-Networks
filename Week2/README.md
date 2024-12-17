@@ -28,7 +28,7 @@
 ### GNN Layer, Layer connectivity and Graph Manipulation :
   - https://web.stanford.edu/class/cs224w/slides/04-GNN2.pdf
 
-### Hands-on on karateclub dataset
+### Hands-on with karateclub dataset
   - https://towardsdatascience.com/graph-convolutional-networks-introduction-to-gnns-24b3f60d6c95
 
 #### For Graph Neural Networks
