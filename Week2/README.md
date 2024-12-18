@@ -8,9 +8,9 @@
   - To get the intuition of ReLU activation, read this article: [Visualizing Piecewise Linear Neural Networks](https://blog.janestreet.com/visualizing-piecewise-linear-neural-networks/).
   - Go over this [Coursera course](https://www.coursera.org/learn/neural-networks-deep-learning) to learn more about neural networks.
 
-### Linear Algebra (if you are uncomfortable with matrices stuff)
+### Linear Algebra (Can refer to these if you are uncomfortable with matrices stuff)
 - If you feel uncomfortable with the matrices stuff in algorithms, you can refer to this for basic notations https://www.geeksforgeeks.org/ml-linear-algebra-operations/
-- Here are MA110 course [slides]() to get in more depth.
+- Here are MA110 course [slides](https://drive.google.com/file/d/1rz87xpr-HtjrLb6uKPfRboQpPd-EKeqe/view?usp=drive_link) to get in more depth.
 - Some important matrix operations:-
   - https://atmos.washington.edu/~dennis/MatrixCalculus.pdf,
   - https://explained.ai/matrix-calculus/
