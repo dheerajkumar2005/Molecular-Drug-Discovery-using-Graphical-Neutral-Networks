@@ -1,7 +1,6 @@
 
 
 ### Week 2: Understanding Advanced Neural Networks and Graph Neural Networks
-**Note:** - the content of week2 will get updated and organized after halfway point of Week 1. if you are comfortable with week 1, then you can go through GNN articles provided.
 
 
 **Part 1(Neural Networks and CNN) (till 23rd December)**
