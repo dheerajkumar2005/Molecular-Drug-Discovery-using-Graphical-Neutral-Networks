@@ -55,7 +55,6 @@
 - **Optional Readings**:
   - Stanford course slides for those who wants to go more in theory : https://web.stanford.edu/class/cs224w/
   - Read and understand the research paper: [Neural Message Passing for Quantum Chemistry](https://arxiv.org/pdf/1704.01212).
-  - Read this article on how to use Graphical Neural Networks in drug discovery: [Drug Discovery and Graph Neural Networks](https://medium.com/@mulugetas/drug-discovery-and-graph-neural-networks-gnns-a-regression-example-fc738e0f11f3).
 
 #### Tutorials and Videos
 - [YouTube: Graph Neural Networks Introduction](https://www.youtube.com/watch?v=8owQBFAHw7E)
