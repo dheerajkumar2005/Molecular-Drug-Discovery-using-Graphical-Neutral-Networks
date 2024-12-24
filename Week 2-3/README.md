@@ -58,6 +58,6 @@
 
 #### Tutorials and Videos
 - [YouTube: Graph Neural Networks Introduction](https://www.youtube.com/watch?v=8owQBFAHw7E)
-- [YouTube Playlist: Graph Neural Networks](https://youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&si=GiLMZdfS5szrhH0z)
+- [Stanford Course Playlist: Graph Neural Networks](https://youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&si=GiLMZdfS5szrhH0z)
 
 **PyTorch Geometric Documentation** - https://pytorch-geometric.readthedocs.io/en/latest
