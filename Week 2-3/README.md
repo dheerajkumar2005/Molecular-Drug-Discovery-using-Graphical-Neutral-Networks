@@ -26,7 +26,7 @@
  - Main idea is to get the intuition of how CNN works, you can do experimentation and play with various parameters to get more understanding.
 --- 
 
-**Part 2(Graphical Neural Networks and related stuff)(more resources and assignments will be added here soon)**
+### Week 3 (Graphical Neural Networks and related stuff)
 
 ### Introduction to Graph Data Structure
 - [Graph Data Structure - tutorialspoint](https://www.tutorialspoint.com/data_structures_algorithms/graph_data_structure.htm) (till representation of graph)
