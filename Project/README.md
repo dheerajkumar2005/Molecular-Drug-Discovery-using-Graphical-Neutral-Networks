@@ -13,18 +13,17 @@ Traditional computational approaches for lipophilicity prediction rely on quanti
 This project aims to leverage the power of GNNs for predicting lipophilicity by representing molecules as graphs where atoms are nodes and bonds are edges. The training is **supervised**, and the **MoleculeNet dataset** with labeled data will be used to train the model. The network will learn hierarchical features from these graphs to predict logD values with high accuracy
 
 ### Packages Needed
- math
- matplotlib
- networkx
- numpy
- os
- pandas
- pubchempy
- rdkit
- sklearn
- torch
- torch_geometric
-
+`math`
+ `matplotlib`
+ `networkx`
+ `numpy`
+ `os`
+ `pandas`
+`pubchempy`
+`rdkit`
+`sklearn`
+ `torch`
+`torch_geometric`
 ### MoleculeNet Dataset
 
 Import data from MoleculeNet and use cheminformatics libraries like RDKit to preprocess the dataset. MoleculeNet can be imported from `torch_geometric.datasets`.
