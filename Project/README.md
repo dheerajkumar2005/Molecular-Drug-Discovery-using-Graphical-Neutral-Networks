@@ -28,8 +28,8 @@ This project aims to leverage the power of GNNs for predicting lipophilicity by 
 
 Import data from MoleculeNet and use cheminformatics libraries like RDKit to preprocess the dataset. MoleculeNet can be imported from `torch_geometric.datasets`.
 
- - explore the dataset by printing all the attributes and properties.
- - Use pubchempy to get the name and rdkit to draw the molecular structure.
+- explore the dataset by printing all the attributes and properties.
+- Use pubchempy to get the name and rdkit to draw the molecular structure.
 
 
 ###  Model Architecture Design
